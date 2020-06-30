@@ -1,3 +1,6 @@
+implementation of the code written by the author of this article:
+https://towardsdatascience.com/how-to-build-a-simple-machine-learning-web-app-in-python-68a45a0e0291
+
 how to run:
 
 build the image:
